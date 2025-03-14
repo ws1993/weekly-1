@@ -5,10 +5,6 @@
 
 # 技术周刊
 
-为什么要写周刊？技术周刊是怎样制作的？
-
-请移步：[技术周刊](https://mp.weixin.qq.com/s/86Cz3KUWqutu9J0V4tyabQ)
-
 # 2024 年
 
 - [【第 136 期】2024-12-02](https://github.com/Geekhyt/weekly/issues/145)
